@@ -1,6 +1,6 @@
 # Character Sheets
 For each type of creature, there is a sheet with numbered boxes for focus and gear slots that serves as a character sheet. The description of that creature also lists their focus die and gear die, their breakdown of body, grip, and pack slots, and any special features the people might have. 
-Below are the details and sheet for humans, the default creature for players. When the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets and details can be found in the appendix.
+For Humans, the default creature for players, the focus die is a d10 and the gear die is d12. The rest of these rules assume that characters are humans. When the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets, slots, dice, and other details can be found in the appendix.
 
 >**HUMAN**  
 >**Focus die:** d10  
@@ -15,12 +15,12 @@ Below are the details and sheet for humans, the default creature for players. Wh
 # Focus & Gear Slots
 Focus Slots represents the character's mind and concentration. They can hold **ideas** like spells, bonds, devotions, and skills.
 
-Gear Slots represent the character's body and bags. They can hold **items** like weapons, armor, and equipment
+Gear Slots represent the character's body and bags. They can hold **items** like weapons, armor, and equipment. Gear slots come in 3 types:
+* Body slots (#2-6) correspond to the actual creature. Armor is only considered equipped in these and wounds can only be placed here. 
+* Grip slots (#7-8) represent the items being held in your hands. Weapons and many other items are only considered equipped when in these slots.
+* Pack slots (#9-12) represent your backpack, satchel, or other bag. Packs can be dropped making them immediately count as empty.
 
-Gear slots come in 3 types:
-* Body slots correspond to the actual creature. Armor is only considered equipped in these and wounds can only be placed here. 
-* Grip slots represent the items being held in your hands. Weapons and many other items are only considered equipped when in these slots.
-* Pack slots represent your backpack, satchel, or other bag. Packs can be dropped making them immediately count as empty.
+  
 ## Filling Slots
 You’ll need a way to represent the ideas and item in your slots. 
 * You can just write the name of the item or idea in the slot.
