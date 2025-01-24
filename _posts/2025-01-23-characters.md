@@ -2,14 +2,15 @@
 For each type of creature, there is a sheet with numbered boxes for focus and gear slots that serves as a character sheet. The description of that creature also lists their focus die and gear die, their breakdown of body, grip, and pack slots, and any special features the people might have. 
 Below are the details and sheet for humans, the default creature for players. When the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets and details can be found in the appendix.
 
-![Human Inventory](https://raw.githubusercontent.com/RedOgreJelly/redogrejelly.github.io/f3c83e69731867b3993131fac93787f18a6245ed/images/InventoryHuman.png)
-
 >**HUMAN**  
 >**Focus die:** d10  
 >**Gear die:** d12  
 >**Body Slots:** 2-6   
 >**Grip Slots:** 7-8  
->**Pack Slots:** 9-12  
+>**Pack Slots:** 9-12
+
+![Human Inventory](https://raw.githubusercontent.com/RedOgreJelly/redogrejelly.github.io/refs/heads/main/images/SlotsHuman.png)
+
 	 
 # Focus & Gear Slots
 Focus Slots represents the character's mind and concentration. They can hold **ideas** like spells, bonds, devotions, and skills.
