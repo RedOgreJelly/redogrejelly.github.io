@@ -148,8 +148,8 @@ Each 5 trys (10 if well-clothed, 20 if dressed for cold), that exposure to the c
 Warming the character removes one mark per try, but does not undo the frostbite.
  
 ## Hunger
-Character that go 2
-Each additional week without sufficient food or each day without sufficient drink worsens the condition. When malnourishment worsens, you must mark a body slot that is of a lower number each time. If you must mark a slot as malnourished, but cannot, your character dies.
+Character that go a week without sufficient food should mark hunger.
+Each additional week without sufficient food worsens the condition. When hunger worsens, you must mark a body slot that is of a lower number each time. If you must mark a slot for hunger, but cannot, your character dies.
 
-## POISONS
+## Poisons
 
