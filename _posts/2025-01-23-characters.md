@@ -2,13 +2,6 @@
 For each type of creature, there is a sheet with numbered boxes for focus and gear slots that serves as a character sheet. The description of that creature also lists their focus die and gear die, their breakdown of body, grip, and pack slots, and any special features the people might have. 
 For Humans, the default creature for players, the focus die is a d10 and the gear die is d12. The rest of these rules assume that characters are humans. When the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets, slots, dice, and other details can be found in the appendix.
 
->**HUMAN**  
->**Focus die:** d10  
->**Gear die:** d12  
->**Body Slots:** 2-6   
->**Grip Slots:** 7-8  
->**Pack Slots:** 9-12
-
 ![Human Inventory](https://raw.githubusercontent.com/RedOgreJelly/redogrejelly.github.io/refs/heads/main/images/SlotsHuman.png)
 
 	 
