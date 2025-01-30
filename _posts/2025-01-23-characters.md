@@ -130,7 +130,7 @@ Body slots with corruption become visibly deformed, grotesque, or otherwise corr
 ## Diseases
 
  
-## FIRE
+## Fire
 When the contents of a flammable gear slot are ignited, mark that slot for fire. Each round, all slots containing flammable items that are adjacent to a slot marked with fire, also ignite. 
 A slot that is on fire for 1 full round takes a closed wound and any flammable item in it is destroyed; if that slot is still aflame after another round passes, the wound becomes open. 
 Rolling on the ground can put out some dry fires. When you devote a whole turn to rolling on the ground, roll 3 gear dice and put out the fire in the slots rolled. Dousing with water or otherwise smothering the fire puts it out, removing the condition.
