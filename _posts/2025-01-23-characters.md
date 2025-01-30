@@ -81,9 +81,6 @@ If the creatures you are sneaking past can smell well (like dogs) and the check 
 * If your vicinity is already ambiently very smelly, you receive advantage on the check.
 * If the creatures you are sneaking past have more exotic senses, (like tremorsense, infravision, or aurasensitivity), then the check fails if the contents are particularly apperent to that sense (like shaking, hot, or magical, respectively).
 * If the check contents are none of the applicable above, the check succeeds and you go unnoticed.
- 
-When a character is attacked, they make either a Gear(block) or Gear(dodge) check to determine if and where the attack lands.
-Granting advantage to an attack gives disadvantage to the Gear(block) or Gear(dodge) check and disadvantage on an attack grants advantage to this check
 
 ### Block
 When you are attacked with a strike or missile, make a Gear(block) check.
@@ -94,14 +91,18 @@ When you are attacked with a strike or missile, make a Gear(block) check.
 ### Dodge
 When attacked with a grab or blast, make a Gear(dodge) check.
 * If the check contents are _not heavy_, you dodge the attack and suffer no wounds or conditions of the attack.
-* If you rolled a 1 or the check contents are _heavy_, you fail and suffer all wounds and/or conditions of the attack. 
+* If you rolled a 1 or the check contents are _heavy_, you fail and suffer all wounds and/or conditions of the attack.
+  
+## Attacks
+When a character is attacked, they make either a Gear(block) or Gear(dodge) check to determine if and where the attack lands.
+Granting advantage to an attack gives disadvantage to the Gear(block) or Gear(dodge) check and disadvantage on an attack grants advantage to this check
 
 # Wounds
 Wounds can occur in any body slot. They come in two types: open and closed. When an open wound is taken or a closed wound is opened, the character immediately suffers the bleeding condition (or the condition worsens if they already have it). Wounds also affect your checks:
 If you make a Gear check and the slot rolled is already marked with a wound, the check fails.
 * If it was a closed wound, the wound reopens. 
 * If it was an open wound, the bleeding condition progresses by 1 slot.
-* If you take a wound to a slot already marked with a wound, you must succeed at a Focus(grit) check or fall unconscious. 
+* If you take a wound to a slot already marked with a wound, you must succeed at a Focus(grit) check or fall unconscious.
 
 ## Treatment
 As an action, a character can expend a healing kit on an injured ally within reach to treat a single open wound, making it closed.
