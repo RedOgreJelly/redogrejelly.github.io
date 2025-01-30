@@ -6,7 +6,7 @@ For Humans, the focus die is a d10, the gear die is d12, and the focus and gear 
 ![Human Inventory](https://raw.githubusercontent.com/RedOgreJelly/redogrejelly.github.io/refs/heads/main/images/SlotsHuman.png)
 
 	 
-# Focus & Gear Slots
+## Focus & Gear Slots
 Focus Slots represents the character's mind and concentration. They can hold **ideas** like spells, bonds, devotions, and skills.
 
 Gear Slots represent the character's body and bags. They can hold **items** like weapons, armor, and equipment. Gear slots come in 3 types:
@@ -15,13 +15,13 @@ Gear Slots represent the character's body and bags. They can hold **items** like
 * Pack slots (#9-12) represent your backpack, satchel, or other bag. Packs can be dropped making them immediately count as empty.
 
   
-## Filling Slots
+### Filling Slots
 You’ll need a way to represent the ideas and item in your slots. 
 * You can just write the name of the item or idea in the slot.
 * You can make small sketches of the items or ideas.
 * You can print out and cut up squares found in this book and then place the cutouts on the correct slot.
 
-## Marking Slots
+### Marking Slots
 You’ll also need a way to mark slots with wounds and conditions. Here are a couple of ideas:
 * Use different letters written at the top of the slot to mark conditions. Slash “/” out a slot for a closed wound and “X” out a slot for an open wound. 
 * Use transparencies of different colors that are placed over the slots on your sheet.
@@ -53,7 +53,7 @@ When you're trying stay calm and composed despite feeling fear, sadness, elation
 If the check contents are a _discipline_ or in somme way _opposed to the emotion_, you succeed, otherwise you fail.
 
  
-# Gear Checks
+## Gear Checks
 Gear Checks use your gear slots and gear die for the check.
 
 ### Traverse
