@@ -48,9 +48,9 @@ If the check contents are _a spell you're concentrating on_, the check fails and
 When you ask your deity, patron, other master for assistance, make a Focus(beseech) check.
 Beseech checks succeed if the check contents are a _discipline_ or something specifically _in your master's domain_.
 
-### Will
-When you're trying stay calm and composed despite feeling fear, sadness, elation, rage, or other strong emotions, make a Focus(will) check.
-If the check contents are a _discipline_ or in somme way _opposed to the emotion_.
+### Grit
+When you're trying stay calm and composed despite feeling fear, sadness, elation, rage, or other strong emotions, make a Focus(grit) check.
+If the check contents are a _discipline_ or in somme way _opposed to the emotion_, you succeed, otherwise you fail.
 
  
 # Gear Checks
