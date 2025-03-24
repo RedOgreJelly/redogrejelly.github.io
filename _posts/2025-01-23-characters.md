@@ -65,15 +65,20 @@ When you move overland in a potentially dangerous way, such as climbing a wall, 
 Regardless of the outcome of this check, the player must also mark exhaustion.
 
 ### Fall
-When a character falls, they make and Gear(fall) check by rolling 1 die for each ~10 ft. they fall onto a solid surface, ~20 ft. they fall onto a soft surface, or ~30 ft. they fall into water of sufficient depth.
+When a character falls, they make and Gear(fall) check by rolling 1 die for each ~10 ft. they fall onto a solid surface (such as stone) , ~20 ft. they fall onto a soft surface (such as a hedge), or ~30 ft. they fall into water of sufficient depth.
+
 Roll all of these dice at the same time. For each die, the judge determines what happens according to these guidelines:
-* If the check content is _an item that could cushion the fall_, that die is disregarded, causing no harm. 
-* If the check content is _an item that can break upon impact_, it breaks, which may have further consequences.
+* If the check content is _a hard, but blunt item_, the character takes a closed wound.
+* If the check content is _a hard, sharp, pokey, or stabby item_, the character takes an open wound in that slot.
+* If the check content is _an item that could cushion the fall_, that die is disregarded, causing no harm.
+* Additionally, if the check content is _an item that can break upon impact_, it also breaks, which may have further consequences for some items (ie. bombs exploding, potion leaking).
+
 Regardless of the outcome of this check, the player falls prone. 
 
 ### Sneak
 When you try to stealthily move past an opponent, make a Gear(sneak) check. In order to sneak, you must either be obscured from view (cover, fog, darkness, etc.) or the creatures you are sneaking past must be inattentive (distracted, sleepy, etc.). If both are true, take advantage on the check.
 If the creatures you are sneaking past can hear, and the check contents are _noisy_, the check fails. 
+
 * Items are considered _noisy_ if they make substantial sound from being moved, like a sack of coins, a tambourine, or a chainmail shirt.
 * Rigid items (metal, glass, or stone) that are in the same slot or in adjacent slots count as noisy due to clanking together unless you wrap them especially to avoid this.
 * If your vicinity is already ambiently very noisy, you receive advantage on the check.
@@ -84,12 +89,14 @@ If the creatures you are sneaking past can smell well (like dogs) and the check 
 
 ### Block
 When you are attacked with a strike or missile, make a Gear(block) check.
+
 * If the check content is _heavy armor_, _a shield_, or (against melee attacks) _a weapon in your grip_, you block the attack and suffer no wounds or conditions from the attack.
 * If the check content is _light armor_ you resist the attack and take a closed wound in the slot rolled but do not suffer any conditions from the attack.
 * If you rolled a 1 or the check contents _can neither block nor resist the attack_, you fail and take an open wound in the slot rolled (if a body slot), take an open wound in a slot of the judge's choice (if a grip slot or you rolled a 1), or the item is dropped or damaged (if a pack slot).
 
 ### Dodge
 When attacked with a grab or blast, make a Gear(dodge) check.
+
 * If the check contents are _not heavy_, you dodge the attack and suffer no wounds or conditions of the attack.
 * If you rolled a 1 or the check contents are _heavy_, you fail and suffer all wounds and/or conditions of the attack.
   
@@ -100,6 +107,7 @@ Granting advantage to an attack gives disadvantage to the Gear(block) or Gear(do
 # Wounds
 Wounds can occur in any body slot. They come in two types: open and closed. When an open wound is taken or a closed wound is opened, the character immediately suffers the bleeding condition (or the condition worsens if they already have it). Wounds also affect your checks:
 If you make a Gear check and the slot rolled is already marked with a wound, the check fails.
+
 * If it was a closed wound, the wound reopens. 
 * If it was an open wound, the bleeding condition progresses by 1 slot.
 * If you take a wound to a slot already marked with a wound, you must succeed at a Focus(grit) check or fall unconscious.
