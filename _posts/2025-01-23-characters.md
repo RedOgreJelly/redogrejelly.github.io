@@ -90,8 +90,8 @@ If the creatures you are sneaking past can smell well (like dogs) and the check 
 ### Block
 When you are attacked with a strike or missile, make a Gear(block) check.
 
-* If the check content is _heavy armor_, _a shield_, or (against melee attacks) _a weapon in your grip_, you block the attack and suffer no wounds or conditions from the attack.
-* If the check content is _light armor_ you resist the attack and take a closed wound in the slot rolled but do not suffer any conditions from the attack.
+* If the check content is _heavy armor appropriately donned_, _a shield in your grip_, or (against melee attacks only) _a weapon in your grip_, you block the attack and suffer no wounds or conditions from the attack.
+* If the check content is _light armor appropriate donned_ you resist the attack and take a closed wound in the slot rolled but do not suffer any conditions from the attack.
 * If you rolled a 1 or the check contents _can neither block nor resist the attack_, you fail and take an open wound in the slot rolled (if a body slot), take an open wound in a slot of the judge's choice (if a grip slot or you rolled a 1), or the item is dropped or damaged (if a pack slot).
 
 ### Dodge
