@@ -27,7 +27,7 @@ You’ll also need a way to mark slots with wounds and conditions. Here are a co
 * Use transparencies of different colors that are placed over the slots on your sheet.
 
 # Checks
-When the judge calls for a check, the player rolls a die and reports the contents of the slot corresponding to the number rolled (the check contents). Then, the judge announces if the check succeeds or fails based on these contents, and narrates the outcome. The criteria for success varies from check to check, but on a roll of 1, the check always fails.
+When the judge calls for a check, the player rolls a die and reports the contents of the slot corresponding to the number rolled (the check contents). Then, the judge announces if the check succeeds or fails based on these contents, and narrates the outcome. The criteria for success varies from check to check, but on a roll of 1, gear checks always fail but focus checks always succeed.
 
 ## Cooperation
 When a group of characters roll the same check or attack and they can reasonably help each other with it, the players can roll their dice all at once, then, if they wish, each player can exchange one die with another of the cooperating players to get a more favorable outcome.
