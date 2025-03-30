@@ -1,13 +1,13 @@
 # Character Sheets
 For each type of people, there is a sheet with numbered boxes for focus and gear slots that serves as a character sheet. The description of that creature also lists their focus die and gear die, their breakdown of body, grip, and pack slots, and any special features the people might have. By default, the player's characters are all humans. After the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets, slots, dice, and other details can be found in the appendix. The rest of these rules assume that characters are humans
 
-For Humans, the focus die is a d10, the gear die is d12, and the focus and gear slots are arranged as in the following sheet:
+For Humans, the focus die is a d4, the gear die is d12, and the focus and gear slots are arranged as in the following sheet:
 
 ![Human Inventory](https://raw.githubusercontent.com/RedOgreJelly/redogrejelly.github.io/refs/heads/main/images/SlotsHuman.png)
 
 	 
 ## Focus & Gear Slots
-Focus Slots represents the character's mind and concentration. They can hold **ideas** like spells, bonds, devotions, and skills.
+Focus Slots represent the character's mind and concentration. They can hold **ideas** like spells, bonds, devotions, and skills.
 
 Gear Slots represent the character's body and bags. They can hold **items** like weapons, armor, and equipment. Gear slots come in 3 types:
 * Body slots (#2-6) correspond to the actual creature. Armor is only considered equipped in these and wounds can only be placed here. 
@@ -46,11 +46,11 @@ If the check contents are _something your've concentrating on_, the check fails 
 
 ### Beseech
 When you ask your deity, patron, other master for assistance, make a Focus(beseech) check.
-Beseech checks succeed if the check contents are a _faith_ or something specifically _in your master's domain_.
+Beseech checks succeed if the check contents are a _devotion_.
 
 ### Morale
 When you're trying stay calm and collected and not give into fear, despair, or other negative emotion, make a Focus(morale) check.
-If the check contents are _fear_, you flee or cower if that's not an option. If the check contents are _despair_, you sob and cower. The judge may decide the outcome if other emotions are rolled. if you do not roll and negative emotion, the check succeeds.
+If the slot rolled is marked with _fear_, you flee or cower if that's not an option. If the slot rolled is marked with _despair_, you sob and cower. If the slot is marked with a wound, you fail as the judge decies. If none of these are rolled, the check succeeds.
 
  
 ## Gear Checks
