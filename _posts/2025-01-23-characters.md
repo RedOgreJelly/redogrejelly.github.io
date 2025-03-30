@@ -1,11 +1,11 @@
 # Characters
-Every character has a sheet with two sets of numbered boxes, the exact layout of which is determined by their people, such as human, goblin, elf, or ogre. The rules that follow here assume that the character is a human, which has the sheet shown below. 
-
-Sheets and adjustments for other peoples are listed in the Peoples section, but it is reccommended that campaigns begin with an all human party. After the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures.
+Every character has a sheet with two sets of numbered boxes, the exact layout of which is determined by their people, such as human, goblin, elf, or ogre. For simplicity, the rules that follow here assume that the character is a human, which has the sheet shown below. 
 
 ![Human Inventory](https://raw.githubusercontent.com/RedOgreJelly/redogrejelly.github.io/refs/heads/main/images/SlotsHuman.png)
-	 
-##Slots
+
+Sheets and adjustments for other peoples are listed in the peoples section, but it is reccommended that campaigns begin with an all human party. After the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures.
+
+## Slots
 **Focus Slots** represent the character's mind and concentration. They can hold **ideas** like spells, bonds, and devotions as well as more temporary **interests** like the targets of aiming or heeding.
 
 **Gear Slots** represent the character's body and bags. They can hold **items** like weapons, armor, and equipment. Gear slots come in 3 types:
@@ -13,7 +13,6 @@ Sheets and adjustments for other peoples are listed in the Peoples section, but 
 * Grip slots (#7-8) represent the items being held in your hands. Weapons and many other items are only considered equipped when in these slots.
 * Pack slots (#9-12) represent your backpack, satchel, or other bag. Packs can be dropped making them immediately count as empty.
 
-  
 ### Filling Slots
 You’ll need a way to represent the ideas and item in your slots. 
 * You can just write the name of the item or idea in the slot.
@@ -26,7 +25,7 @@ You’ll also need a way to mark slots with wounds and conditions. Here are a co
 * Use transparencies of different colors that are placed over the slots on your sheet.
 
 # Checks
-When the judge calls for a check, the player rolls a die and reports the contents of the slot corresponding to the number rolled (the check contents). Then, the judge announces if the check succeeds or fails based on these contents, and narrates the outcome. The criteria for success varies from check to check, but on a roll of 1, gear checks always fail but focus checks always succeed.
+When the judge calls for a check, the player rolls a die (d4 for focus checks or d12 for gear checks) and reports the contents of the slot corresponding to the number rolled (the check contents). Then, the judge announces if the check succeeds or fails based on these contents, and narrates the outcome. The criteria for success varies from check to check, but on a roll of 1, gear checks (but not focus checks) always.
 
 ## Cooperation
 When a group of characters roll the same check or attack and they can reasonably help each other with it, the players can roll their dice all at once, then, if they wish, each player can exchange one die with another of the cooperating players to get a more favorable outcome.
@@ -37,11 +36,11 @@ When the reverse applies, and a roll should be more difficult, the judge can gra
 Up to 2 advantages and disadvantages stack, so that is possible to roll with 3 dice. If you have both advantages and disadvantages, cancel them out 1-for-1.
  
 ## Focus Checks
-Focus Checks use your focus slots and focus die for the check.
+Focus Checks use your focus slots and a d4 for the check.
 
 ### Concentrate
-When you are injured or distracted while aiming, heeding, casting a spell, concentrating on a spell, or simmialrlly concentrating intently on something, make a Focus(concentrate) check.
-If the check contents are _something your're concentrating on_, the check fails and you lose concentration on that spell.
+When you are wounded or distracted while aiming, heeding, casting a spell, concentrating on a spell, or simmilarly concentrating intently on something, make a Focus(concentrate) check.
+If the check contents are _something your're concentrating on_, the check fails and you lose concentration.
 
 ### Beseech
 When you ask your deity, patron, other master for assistance, make a Focus(beseech) check.
@@ -50,10 +49,9 @@ Beseech checks succeed if the check contents are a _devotion_.
 ### Morale
 When you're trying stay calm and collected and not give into your fear and terror, make a Focus(morale) check.
 If the slot rolled is marked with terror, you must flee, surrender, or cower. If none of these are rolled, the check succeeds.
-
  
 ## Gear Checks
-Gear Checks use your gear slots and gear die for the check.
+Gear Checks use your gear slots and a d12 for the check.
 
 ### Traverse
 When you move overland in a potentially dangerous way, such as climbing a wall, running over rough terrain, balancing on a ledge, leaping a chasm, or swimming a river, make a Gear(traverse) check.
