@@ -1,15 +1,14 @@
-# Character Sheets
-For each type of people, there is a sheet with numbered boxes for focus and gear slots that serves as a character sheet. The description of that creature also lists their focus die and gear die, their breakdown of body, grip, and pack slots, and any special features the people might have. By default, the player's characters are all humans. After the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets, slots, dice, and other details can be found in the appendix. The rest of these rules assume that characters are humans
+# Characters
+Every character has a sheet with two sets of numbered boxes, the exact layout of which is determined by their people, such as human, goblin, elf, or ogre. The rules that follow here assume that the character is a human, which has the sheet shown below. 
 
-For Humans, the focus die is a d4, the gear die is d12, and the focus and gear slots are arranged as in the following sheet:
+Sheets and adjustments for other peoples are listed in the Peoples section, but it is reccommended that campaigns begin with an all human party. After the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures.
 
 ![Human Inventory](https://raw.githubusercontent.com/RedOgreJelly/redogrejelly.github.io/refs/heads/main/images/SlotsHuman.png)
-
 	 
-## Focus & Gear Slots
-Focus Slots represent the character's mind and concentration. They can hold **ideas** like spells, bonds, devotions, and skills.
+##Slots
+**Focus Slots** represent the character's mind and concentration. They can hold **ideas** like spells, bonds, and devotions as well as more temporary **interests** like the targets of aiming or heeding.
 
-Gear Slots represent the character's body and bags. They can hold **items** like weapons, armor, and equipment. Gear slots come in 3 types:
+**Gear Slots** represent the character's body and bags. They can hold **items** like weapons, armor, and equipment. Gear slots come in 3 types:
 * Body slots (#2-6) correspond to the actual creature. Armor is only considered equipped in these and wounds can only be placed here. 
 * Grip slots (#7-8) represent the items being held in your hands. Weapons and many other items are only considered equipped when in these slots.
 * Pack slots (#9-12) represent your backpack, satchel, or other bag. Packs can be dropped making them immediately count as empty.
