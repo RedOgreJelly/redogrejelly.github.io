@@ -42,7 +42,7 @@ Focus Checks use your focus slots and focus die for the check.
 
 ### Concentrate
 When you are injured or distracted while aiming, heeding, casting a spell, concentrating on a spell, or simmialrlly concentrating intently on something, make a Focus(concentrate) check.
-If the check contents are _something your've concentrating on_, the check fails and you lose concentration on that spell.
+If the check contents are _something your're concentrating on_, the check fails and you lose concentration on that spell.
 
 ### Beseech
 When you ask your deity, patron, other master for assistance, make a Focus(beseech) check.
