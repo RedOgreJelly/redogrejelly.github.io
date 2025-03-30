@@ -1,5 +1,5 @@
 # Character Sheets
-For each type of creature, there is a sheet with numbered boxes for focus and gear slots that serves as a character sheet. The description of that creature also lists their focus die and gear die, their breakdown of body, grip, and pack slots, and any special features the people might have. By default, the player's characters are all humans. After the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets, slots, dice, and other details can be found in the appendix. The rest of these rules assume that characters are humans
+For each type of people, there is a sheet with numbered boxes for focus and gear slots that serves as a character sheet. The description of that creature also lists their focus die and gear die, their breakdown of body, grip, and pack slots, and any special features the people might have. By default, the player's characters are all humans. After the player’s characters spend significant time with other peoples, like elves or goblins, the judge might allow players to make new characters of those creatures. Their sheets, slots, dice, and other details can be found in the appendix. The rest of these rules assume that characters are humans
 
 For Humans, the focus die is a d10, the gear die is d12, and the focus and gear slots are arranged as in the following sheet:
 
@@ -41,16 +41,16 @@ Up to 2 advantages and disadvantages stack, so that is possible to roll with 3 d
 Focus Checks use your focus slots and focus die for the check.
 
 ### Concentrate
-When you are injured, distracted, or initially begin concentrating on a spell, make a Focus(concentrate) check.
-If the check contents are _a spell you're concentrating on_, the check fails and you lose concentration on that spell.
+When you are injured or distracted while aiming, heeding, casting a spell, concentrating on a spell, or simmialrlly concentrating intently on something, make a Focus(concentrate) check.
+If the check contents are _something your've concentrating on_, the check fails and you lose concentration on that spell.
 
 ### Beseech
 When you ask your deity, patron, other master for assistance, make a Focus(beseech) check.
-Beseech checks succeed if the check contents are a _discipline_ or something specifically _in your master's domain_.
+Beseech checks succeed if the check contents are a _faith_ or something specifically _in your master's domain_.
 
-### Grit
-When you're trying stay calm and composed despite feeling fear, sadness, elation, rage, or other strong emotions, make a Focus(grit) check.
-If the check contents are a _discipline_ or in some way _opposed to the emotion_, you succeed, otherwise you fail.
+### Morale
+When you're trying stay calm and collected and not give into fear, despair, or other negative emotion, make a Focus(morale) check.
+If the check contents are _fear_, you flee or cower if that's not an option. If the check contents are _despair_, you sob and cower. The judge may decide the outcome if other emotions are rolled. if you do not roll and negative emotion, the check succeeds.
 
  
 ## Gear Checks
