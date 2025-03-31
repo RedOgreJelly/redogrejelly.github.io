@@ -1,0 +1,72 @@
+# Checks
+When the judge calls for a check, the player rolls a die (d4 for focus checks or d12 for gear checks) and reports the contents of the slot corresponding to the number rolled (the check contents). Then, the judge announces if the check succeeds or fails based on these contents, and narrates the outcome. The criteria for success varies from check to check, but on a roll of 1, gear checks (but not focus checks) always.
+
+## Cooperation
+When a group of characters roll the same check or attack and they can reasonably help each other with it, the players can roll their dice all at once, then, if they wish, each player can exchange one die with another of the cooperating players to get a more favorable outcome.
+
+## Difficulty
+When a roll should be easier, a character is skilled at a task, or in an advantageous position, the judge can grant them advantage on a check. To roll with advantage, the player rolls an extra die and, after seeing the results, chooses which single die counts for the roll.  
+When the reverse applies, and a roll should be more difficult, the judge can grant disadvantage on a roll. To roll with disadvantage, the player rolls an extra die and, after seeing the results, the judge chooses (unfavorably) which single die counts for the roll.  
+Up to 2 advantages and disadvantages stack, so that is possible to roll with 3 dice. If you have both advantages and disadvantages, cancel them out 1-for-1.
+ 
+## Focus Checks
+Focus Checks use your focus slots and a d4 for the check.
+
+### Concentrate
+When you are wounded or distracted while aiming, heeding, casting a spell, concentrating on a spell, or simmilarly concentrating intently on something, make a Focus(concentrate) check.
+If the check contents are _something your're concentrating on_, the check fails and you lose concentration.
+
+### Beseech
+When you ask your deity, patron, other master for assistance, make a Focus(beseech) check.
+Beseech checks succeed if the check contents are a _devotion_.
+
+### Morale
+When you're trying stay calm and collected and not give into your fear and terror, make a Focus(morale) check.
+If the slot rolled is marked with terror, you must flee, surrender, or cower. If none of these are rolled, the check succeeds.
+ 
+## Gear Checks
+Gear Checks use your gear slots and a d12 for the check.
+
+### Traverse
+When you move overland in a potentially dangerous way, such as climbing a wall, running over rough terrain, balancing on a ledge, leaping a chasm, or swimming a river, make a Gear(traverse) check.
+
+* If the check contents are _not heavy_, you succeed in safely moving to where you intended.
+* If the check contents are _heavy_ , you fail to reach your destination, instead stumbling and usually falling (prone, off a ledge, into the chasm, etc.) as the judge decides. 
+
+Regardless of the outcome of this check, the player must also mark exhaustion.
+
+### Fall
+When a character falls, they make and Gear(fall) check by rolling 1 die for each ~10 ft. they fall onto a solid surface (such as stone) , ~20 ft. they fall onto a soft surface (such as a hedge), or ~30 ft. they fall into water of sufficient depth.
+
+Roll all of these dice at the same time. For each die, the judge determines what happens according to these guidelines:
+* If the check content is _a hard, but blunt item_, the character takes a closed wound.
+* If the check content is _a hard, sharp, pokey, or stabby item_, the character takes an open wound in that slot.
+* If the check content is _an item that could cushion the fall_, that die is disregarded, causing no harm.
+* Additionally, if the check content is _an item that can break upon impact_, it also breaks, which may have further consequences for some items (ie. bombs exploding, potion leaking).
+
+Regardless of the outcome of this check, the player falls prone. 
+
+### Sneak
+When you try to stealthily move past an opponent, make a Gear(sneak) check. In order to sneak, you must either be obscured from view (cover, fog, darkness, etc.) or the creatures you are sneaking past must be inattentive (distracted, sleepy, etc.). If both are true, take advantage on the check.
+If the creatures you are sneaking past can hear, and the check contents are _noisy_, the check fails. 
+
+* Items are considered _noisy_ if they make substantial sound from being moved, like a sack of coins, a tambourine, or a chainmail shirt.
+* Rigid items (metal, glass, or stone) that are in the same slot or in adjacent slots count as noisy due to clanking together unless you wrap them especially to avoid this.
+* If your vicinity is already ambiently very noisy, you receive advantage on the check.
+If the creatures you are sneaking past can smell well (like dogs) and the check contents are _smelly_, the check fails.
+* If your vicinity is already ambiently very smelly, you receive advantage on the check.
+* If the creatures you are sneaking past have more exotic senses, (like tremorsense, infravision, or aurasensitivity), then the check fails if the contents are particularly apperent to that sense (like shaking, hot, or magical, respectively).
+* If the check contents are none of the applicable above, the check succeeds and you go unnoticed.
+
+### Block
+When you are attacked with a strike or missile, make a Gear(block) check.
+
+* If the check content is _heavy armor appropriately donned_, _a shield in your grip_, or (against melee attacks only) _a weapon in your grip_, you block the attack and suffer no wounds or conditions from the attack.
+* If the check content is _light armor appropriate donned_ you resist the attack and take a closed wound in the slot rolled but do not suffer any conditions from the attack.
+* If you rolled a 1 or the check contents _can neither block nor resist the attack_, you fail and take an open wound in the slot rolled (if a body slot), take an open wound in a slot of the judge's choice (if a grip slot or you rolled a 1), or the item is dropped or damaged (if a pack slot).
+
+### Dodge
+When attacked with a grab or blast, make a Gear(dodge) check.
+
+* If the check contents are _not heavy_, you dodge the attack and suffer no wounds or conditions of the attack.
+* If you rolled a 1 or the check contents are _heavy_, you fail and suffer all wounds and/or conditions of the attack.
