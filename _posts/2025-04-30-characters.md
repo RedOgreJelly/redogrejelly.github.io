@@ -18,10 +18,7 @@
 15. Sawbones: Doctor. Heals, amputates, cuts hair, manages the sick bay.
 16. Squid: Reads and writes runes, keeps records, gives tatoos, notarizes contracts.
 17. Swabbie: Clean decks, ties and checks ropes, performs general maintence.
-18.  
-19. Yeller: Coxswain, musician, storyteller. Sets the pace of work.
-20.  
-21.  
+18. Yeller: Coxswain, musician, storyteller. Sets the pace of work.
 
 
 
