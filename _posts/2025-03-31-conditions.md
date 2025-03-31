@@ -1,13 +1,3 @@
-# Wounds
-Wounds can occur in any body slot. They come in two types: open and closed. When an open wound is taken or a closed wound is opened, the character immediately suffers the bleeding condition (or the condition worsens if they already have it). Wounds also affect your checks:
-If you make a Gear check and the slot rolled is already marked with a wound, the check fails.
-
-* If it was a closed wound, the wound reopens. 
-* If it was an open wound, the bleeding condition progresses by 1 slot.
-
-## Treatment
-As an action, a character can expend a healing kit on an injured ally within reach to treat a single open wound, making it closed.
- 
 # Conditions
 Conditions are used to simulate anything that spreads throughout the body, usually causing harm or death, often the result of a wound.  
 If you have to mark a condition that you already have marked in another slot, the condition instead **worsens**. When a condition worsens, mark a currently unmarked slot that is adjacent to another slot with the condition. Some conditions have additional rule concerning how they worsen.  
