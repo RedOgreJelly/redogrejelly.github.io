@@ -6,7 +6,7 @@
 3. Carpenter: Engineer. Manages repairs and improvements to the ship.
 4. Clinker: Locksmith. Maintains chains, manacles. In charge of the anchor.
 5. Cook: Makes food. Manages the galley (kitchen), sets rations when necessary. 
-6. Ensign: Tailor. Fixes clothes and maybe makes uniforms. In charge of the jack (flag).
+6. Ensign: Tailor. Fixes and cleans clothes and maybe makes uniforms. In charge of the jack (flag).
 7. Gator: Navigator. Sets a course, keeps maps, keeps time, manages the helm (steering wheel).
 8. Gunner: Manages the cannons, powders, and ammunition.
 9. Piper: In charge of torches, lanterns, tobacco, firefigting, and the night watch.
