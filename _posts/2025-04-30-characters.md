@@ -15,8 +15,8 @@
 2. Rooster: Manages the ships birds. In charge of the crow's nest and sounding alarms.
 1. Sage: Priest. Interprets omens, keeps an alter, performs rites.
 1. Sawbones: Doctor. Heals, amputates, cuts hair, manages the sick bay.
-3. Swabbie: Clean decks, ties and checks ropes, performs general maintence.
-4. Tatter: Gives tatoos, reads and writes runes, notarizes agreements.
+3. Squid: Gives tatoos, reads and writes runes, notarizes agreements.
+4. Swabbie: Clean decks, ties and checks ropes, performs general maintence.
 1. Yeller: Coxswain, musician, storyteller. Sets the pace of work.
 2.  
 3.  
